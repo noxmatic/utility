@@ -3,8 +3,6 @@
 A Minecraft modpack focused on **optimization, performance, and functionality**.  
 Enhance your game with smoother gameplay, useful tools, and quality-of-life features without changing the vanilla behavior of minecraft.
 
----
-
 ## Features
 - Better grass textures  
 - Small items for a cleaner look  
@@ -12,14 +10,14 @@ Enhance your game with smoother gameplay, useful tools, and quality-of-life feat
 - Toggleable Night Vision  
 - Fog control in the Overworld, Nether, and underwater
 
----
+--
 
 ## Guide
 - Press **G** to toggle Night Vision  
 - Press **Z** to zoom  
 - Press **V** to set up simple voice chat (optional)
 
----
+--
 
 <p>
   <b><big>Mods Used in This Project</big></b>
@@ -48,7 +46,7 @@ Enhance your game with smoother gameplay, useful tools, and quality-of-life feat
 | 19 | VoiceChat | [Modrinth](https://modrinth.com/mod/voicechat-fabric) |
 | 20 | Zume | [Modrinth](https://modrinth.com/mod/zume) |
 
----
+--
 
 <p>
   <b>Thank you for checking out my modpack! I hope you enjoy it.</b>
